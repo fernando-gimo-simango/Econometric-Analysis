@@ -1,8 +1,8 @@
-*==============================================================================
+*=======================================================================================
 * Econometric Analysis: Synthetic Control Method for Mozambique and Angola
 * Dissertation Code - Fernando Gimo Simango
-* This verson was cleaned and reorganized with the support of AI coding agent (Codex)
-*==============================================================================
+* This version was cleaned and reorganized with the support of AI coding agent (Codex)
+*=======================================================================================
 
 version 17
 clear all
